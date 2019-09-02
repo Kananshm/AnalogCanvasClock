@@ -1,0 +1,13 @@
+ #canvas{
+margin: 60px  550px;
+background-image: url(../img/ben-10-post-1.jpg);
+background-position:  center center;
+overflow: hidden;
+border-radius: 50%;
+}
+#times{
+    margin:570px;
+    font-size: 7em;
+
+}
+
